@@ -1,5 +1,5 @@
 ---
-title: "Hello" 
-date: 2020-11-23
+title: "YOUR-TITLE"
+date: YYYY-MM-DD
 ---
 Quick draft 
